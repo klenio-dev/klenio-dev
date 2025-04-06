@@ -16,11 +16,11 @@
 
 🧠 **Certificações e Cursos Relevantes:**
 - Metodologias Ágeis e Gestão de Projetos (Scrum, Agile Leadership)
-- Fundamentos de Programação e POO
 - C#, Java Avançado e Python Básico
 - Front-end com Frameworks Modernos
 - NoSQL e Banco de Dados para Mobile
 - Segurança em Redes
+- FIC Sistemas Embarcados - IFRN
 
 🌐 **Idiomas:**
 - Inglês Intermediário (B2) – [Certificação EFSET](https://www.efset.org/cert/FF8wNV)
