@@ -38,6 +38,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=klenio-dev&color=blue&style=flat)
 
 ✨ _“Sempre aprendendo, sempre evoluindo.”_
