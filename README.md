@@ -27,8 +27,8 @@
 
 ### ⚙️ Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klenio-dev&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klenio-dev&layout=compact)
 
 ---
 
