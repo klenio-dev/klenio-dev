@@ -23,7 +23,7 @@
 - FIC Sistemas Embarcados - IFRN
 
 🌐 **Idiomas:**
-- Inglês Intermediário (B2) – [Certificação EFSET](https://www.efset.org/cert/FF8wNV)
+- Inglês Intermediário (B2) – [Certificação EFSET](https://cert.efset.org/en/vVsH9a)
 
 ### ⚙️ Estatísticas do GitHub
 
