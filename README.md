@@ -25,14 +25,6 @@
 🌐 **Idiomas:**
 - Inglês Intermediário (B2) – [Certificação EFSET](https://cert.efset.org/en/vVsH9a)
 
-### ⚙️ Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klenio-dev&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com/?user=klenio-dev&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klenio-dev&layout=compact)
-
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
