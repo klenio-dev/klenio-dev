@@ -2,9 +2,7 @@
 
 Sobre Mim
 
-Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿.  
-Sou também aficionado por motociclismo 🏍️ e mountain bike 🚵, sempre curtindo conteúdos, equipamentos e aventuras sobre duas rodas.  
-Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
+Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿. Sou também aficionado por motociclismo 🏍️ e mountain bike 🚵, sempre curtindo conteúdos, equipamentos e aventuras sobre duas rodas.  Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
 
 ---
 
