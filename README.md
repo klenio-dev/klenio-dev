@@ -1,5 +1,9 @@
 # 👋 Olá! Eu sou Klenio
 
+Olá! Sou apaixonado por tecnologia, gamer nas horas vagas, fã de rock, animes, filmes e séries. Quando não estou no teclado, gosto de pegar a estrada de moto ou me aventurar com a mountain bike. Sempre em busca de novos conhecimentos, desafios e formas criativas de resolver problemas!
+
+---
+
 🎓 **Formação Acadêmica:**
 - Bacharel em Administração – UFRN (2018)
 - MBA em Contabilidade com Ênfase em Tributos – Anhanguera (2020)
