@@ -1,6 +1,10 @@
 # 👋 Olá! Eu sou Klenio
 
-Olá! Sou apaixonado por tecnologia, gamer nas horas vagas, fã de rock, animes, filmes e séries. Quando não estou no teclado, gosto de pegar a estrada de moto ou me aventurar com a mountain bike. Sempre em busca de novos conhecimentos, desafios e formas criativas de resolver problemas!
+Sobre Mim
+
+Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿.  
+Sou também aficionado por motociclismo 🏍️ e mountain bike 🚵, sempre curtindo conteúdos, equipamentos e aventuras sobre duas rodas.  
+Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
 
 ---
 
