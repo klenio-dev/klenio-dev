@@ -26,7 +26,7 @@ Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de roc
 - Front-end com Frameworks Modernos
 - NoSQL e Banco de Dados para Mobile
 - Segurança em Redes
-- FIC Sistemas Embarcados - IFRN
+- FIC + em Sistemas Embarcados - IFRN
 
 🌐 **Idiomas:**
 - Inglês Intermediário (B2) – [Certificação EFSET](https://cert.efset.org/en/vVsH9a)
