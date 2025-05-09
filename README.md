@@ -2,7 +2,7 @@
 
 Sobre Mim
 
-Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿. Sou também aficionado por motociclismo 🏍️ e mountain bike 🚵, sempre curtindo conteúdos, equipamentos e aventuras sobre duas rodas.  Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
+Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿. Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
 
 ---
 
@@ -16,15 +16,10 @@ Olá! Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de roc
 - Engenharia de Software
 - Desenvolvimento de Sistemas
 - Ciência de Dados
-- Aplicações Mobile
-- Arquitetura de Software
-- Governança em TI
 
 🧠 **Certificações e Cursos Relevantes:**
 - Metodologias Ágeis e Gestão de Projetos (Scrum, Agile Leadership)
-- C#, Java Avançado e Python Básico
-- Front-end com Frameworks Modernos
-- NoSQL e Banco de Dados para Mobile
+- C#, Java e Python
 - Segurança em Redes
 - FIC + em Sistemas Embarcados - IFRN
 
