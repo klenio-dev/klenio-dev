@@ -16,15 +16,6 @@ Se eu pudesse definir meu processo em três palavras, seriam: **aprender**, **ad
 
 ---
 
-### ⚙️ Skills que me acompanham
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ### 🧩 Curiosidades sobre mim
 
 - 🕹️ Já usei controle de videogame como mouse.  
@@ -34,7 +25,14 @@ Se eu pudesse definir meu processo em três palavras, seriam: **aprender**, **ad
 
 ---
 
-### 📈 Em constante movimento...
+### ⚙️ Skills que me acompanham
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=klenio-dev&color=blue&style=flat)
 
