@@ -1,37 +1,40 @@
-# 👋 Olá! Eu sou Klenio
+# 👋 Opa, tudo certo? Eu sou o Klenio!
 
-Sobre Mim
+A mente é inquieta, os dedos são curiosos.  
+Gosto de criar, experimentar e construir — seja um script, uma ideia ou um conceito.  
+Se eu pudesse definir meu processo em três palavras, seriam: **aprender**, **adaptar**, **aplicar**.
 
-Sou apaixonado por tecnologia 💻, gamer nas horas vagas 🎮, fã de rock 🎸, animes 🎥, filmes e séries 🍿. Quando não estou no teclado, estou buscando novos conhecimentos, desafios e formas criativas de resolver problemas! 🚀
+---
+
+### 🧠 Pensamentos que me movem:
+
+> 💡 “Software é a arte de transformar lógica em impacto.”
+
+> 🔍 “Não há evolução sem desconforto. O erro ensina, o loop aperfeiçoa.”
+
+> 🧭 “Tecnologia é minha ferramenta, mas é a mentalidade que guia.”
 
 ---
 
-🎓 **Formação Acadêmica:**
-- Bacharel em Administração – UFRN (2018)
-- MBA em Contabilidade com Ênfase em Tributos – Anhanguera (2020)
-- Pós-graduação em Engenharia de Software – Anhanguera (2023)
-- Graduando em Engenharia de Software – Anhanguera (Previsão: 2026)
-
-💼 **Áreas de Interesse:**
-- Engenharia de Software
-- Desenvolvimento de Sistemas
-- Ciência de Dados
-
-🧠 **Certificações e Cursos Relevantes:**
-- Metodologias Ágeis e Gestão de Projetos (Scrum, Agile Leadership)
-- C#, Java e Python
-- Segurança em Redes
-- FIC + em Sistemas Embarcados - IFRN
-
-🌐 **Idiomas:**
-- Inglês Intermediário (B2) – [Certificação EFSET](https://cert.efset.org/en/vVsH9a)
-
----
+### ⚙️ Skills que me acompanham
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🧩 Curiosidades sobre mim
+
+- 🕹️ Já usei controle de videogame como mouse.  
+- 🔒 Tenho fascínio por criptografia e segurança digital.  
+- ⌨️ Customizar meu ambiente de trabalho (IDE, terminal, temas) é quase um ritual.  
+- 📚 Leio cyberpunk, curto estratégias e gosto de refletir sobre conceitos como disciplina, foco e propósito.
+
+---
+
+### 📈 Em constante movimento...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=klenio-dev&color=blue&style=flat)
 
