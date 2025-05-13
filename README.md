@@ -16,15 +16,6 @@ Se eu pudesse definir meu processo em três palavras, seriam: **aprender**, **ad
 
 ---
 
-### 🧩 Curiosidades sobre mim
-
-- 🕹️ Já usei controle de videogame como mouse.  
-- 🔒 Tenho fascínio por criptografia e segurança digital.  
-- ⌨️ Customizar meu ambiente de trabalho (IDE, terminal, temas) é quase um ritual.  
-- 📚 Leio cyberpunk, curto estratégias e gosto de refletir sobre conceitos como disciplina, foco e propósito.
-
----
-
 ### ⚙️ Skills que me acompanham
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
