@@ -1,20 +1,19 @@
 # 👋 Opa, tudo certo? Eu sou o Klenio!
 
-A mente é inquieta, os dedos são curiosos.  
-Gosto de criar, experimentar e construir — seja um script, uma ideia ou um conceito.  
-Se eu pudesse definir meu processo em três palavras, seriam: **aprender**, **adaptar**, **aplicar**.
+Engenheiro de Software em formação, com base sólida em Administração e Contabilidade.
+Atuo profissionalmente com análise e gestão de custos, mas direciono minha evolução para o desenvolvimento de soluções tecnológicas eficientes, estruturadas e orientadas a dados.
 
----
+Tenho interesse em construir sistemas que unam lógica, organização e inteligência analítica.
 
-### 🧠 Pensamentos que me movem:
+Interesses
 
-> 💡 “Software é a arte de transformar lógica em impacto.”
+🧠 Engenharia de Software
+💻 Desenvolvimento de Software
+☁️ Computação em Nuvem
+🗄️ Arquitetura e Modelagem de Dados
+📊 Análise de Dados
 
-> 🔍 “Não há evolução sem desconforto. O erro ensina, o loop aperfeiçoa.”
-
-> 🧭 “Tecnologia é minha ferramenta, mas é a mentalidade que guia.”
-
----
+Aqui você encontrará projetos acadêmicos, estudos práticos e aplicações voltadas ao desenvolvimento, arquitetura e análise de dados, sempre com foco em evolução técnica contínua.
 
 ### ⚙️ Skills que me acompanham
 
