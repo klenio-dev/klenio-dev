@@ -8,9 +8,13 @@ Tenho interesse em construir sistemas que unam lógica, organização e intelig�
 Interesses
 
 🧠 Engenharia de Software
+
 💻 Desenvolvimento de Software
+
 ☁️ Computação em Nuvem
+
 🗄️ Arquitetura e Modelagem de Dados
+
 📊 Análise de Dados
 
 Aqui você encontrará projetos acadêmicos, estudos práticos e aplicações voltadas ao desenvolvimento, arquitetura e análise de dados, sempre com foco em evolução técnica contínua.
