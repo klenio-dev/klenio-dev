@@ -1,11 +1,9 @@
 # 👋 Opa, tudo certo? Eu sou o Klenio!
 
-Engenheiro de Software em formação, com base sólida em Administração e Contabilidade.
-Atuo profissionalmente com análise e gestão de custos, mas direciono minha evolução para o desenvolvimento de soluções tecnológicas eficientes, estruturadas e orientadas a dados.
+Engenheiro de Software em formação, direcionando minha carreira para o desenvolvimento de soluções tecnológicas robustas e orientadas a dados. Atuo com foco em qualidade, organização e eficiência no desenvolvimento de sistemas.
+Tenho interesse em criar soluções que integrem engenharia de software, lógica e análise de dados, contribuindo para decisões mais inteligentes e produtos mais escaláveis.
 
-Tenho interesse em construir sistemas que unam lógica, organização e inteligência analítica.
-
-Interesses
+Interesses:
 
 🧠 Engenharia de Software
 
